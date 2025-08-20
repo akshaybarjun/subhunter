@@ -1,6 +1,6 @@
 # subhunter
 
-Akshay B Arjun was  developed a simple automated tool for finding subdomains of a target domain.  
+subhunter is a simple automated tool for finding subdomains of a target domain.  
 It uses different tools like **Subfinder**, **Sublist3r**, **Assetfinder**, and **Subbrute** to collect subdomains.  
 After collecting, it removes duplicates and checks which subdomains are **live** or **dead**.  
 
