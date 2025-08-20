@@ -23,9 +23,13 @@ Make sure you have **Python 3** and the required tools installed.
 
 ```bash
 # Clone this repository
+
 git clone git@github.com:akshaybarjun/subhunter-main.git
+
 # Go into the folder
+
 cd subhunter-main
 
 # Install requirements
+
 python subhunter.py
