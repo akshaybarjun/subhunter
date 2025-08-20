@@ -25,7 +25,7 @@ Make sure you have **Python 3** and the required tools installed.
 # Clone this repository
 git clone git@github.com:akshaybarjun/subhunter-main.git
 # Go into the folder
-cd aztrino
+cd subhunter-main
 
 # Install requirements
-pip install -r requirements.txt
+python subhunter.py
