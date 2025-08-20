@@ -23,8 +23,7 @@ Make sure you have **Python 3** and the required tools installed.
 
 ```bash
 # Clone this repository
-git clone https://github.com/YOUR-USERNAME/aztrino.git
-
+git clone git@github.com:akshaybarjun/subhunter-main.git
 # Go into the folder
 cd aztrino
 
