@@ -24,7 +24,7 @@ Make sure you have **Python 3** and the required tools installed.
 ```bash
 # Clone this repository
 
-git clone git@github.com:akshaybarjun/subhunter.git
+git clone https://github.com/akshaybarjun/subhunter.git
 
 # Go into the folder
 
